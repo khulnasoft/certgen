@@ -1,6 +1,6 @@
 module github.com/khulnasoft/certgen
 
-go 1.20
+go 1.20.7
 
 require (
 	github.com/cloudflare/cfssl v1.6.4
